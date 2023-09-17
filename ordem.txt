@@ -1,0 +1,10 @@
+Caso seja preciso:
+1 - Shell00
+2 - Shell01
+3 - C00-C13
+
+Rushes aos fim-de-semana no meio dos módulos C;
+BSQ durante a última semana, a começar segunda.
+(AceitoLisboa não forneci, porque é só colocar um .txt no repositorio git.)
+
+Não achei português nem espanhol para o BSQ(falta ficheiro também mas não tenho acesso ainda), o Rush 00 e Rush 01 (como já passou do tempo prazo eles tiraram acesso aos ficheiros).
